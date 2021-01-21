@@ -5,7 +5,9 @@
 
 <h2 id="section">'20.1~'21.7</h2>
 <h2 id="군대자습">군대(자습)</h2>
-<p>컴활2개월, 투자자산운용사2개월, Debate 2개월 공부함</p>
+<ul>
+<li>컴활2개월, 투자자산운용사2개월, Debate 2개월 공부함</li>
+</ul>
 
 <table>
 <thead>
@@ -37,10 +39,28 @@
 </tr>
 </tbody>
 </table><h2 id="예정-프로젝트">예정 프로젝트</h2>
-<ol>
-<li>Titanic - Machine Learning from Disaster<br>
-<a href="https://www.kaggle.com/c/titanic">https://www.kaggle.com/c/titanic</a></li>
-<li>House Prices - Advanced Regression Techniques<br>
-<a href="https://www.kaggle.com/c/house-prices-advanced-regression-techniques">https://www.kaggle.com/c/house-prices-advanced-regression-techniques</a></li>
-</ol>
 
+<table>
+<thead>
+<tr>
+<th>순서</th>
+<th>제목</th>
+<th>소개</th>
+<th>코드</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Titanic - Machine Learning from Disaster</td>
+<td><a href="https://www.kaggle.com/c/titanic">https://www.kaggle.com/c/titanic</a></td>
+<td></td>
+</tr>
+<tr>
+<td>2</td>
+<td>House Prices - Advanced Regression Techniques</td>
+<td><a href="https://www.kaggle.com/c/house-prices-advanced-regression-techniques">https://www.kaggle.com/c/house-prices-advanced-regression-techniques</a></td>
+<td></td>
+</tr>
+</tbody>
+</table>
