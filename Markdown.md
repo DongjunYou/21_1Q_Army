@@ -1,4 +1,4 @@
-# 마크다운 작성법(stackedit필요없어!)
+# 마크다운 작성법 (stackedit필요없어!)
 - Space and Enter
 space 여러 번은 한번과 같음
 엔터를 한번 치면, 글이 붙고 엔터를 두번 치면 단락이 바뀜
