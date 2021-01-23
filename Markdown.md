@@ -12,7 +12,7 @@ HTML의 \<hr>에 대응됨 <br/>
 헤더는 6단계가 있고 HTML의 \<H1> ... \<H6>에 대응됨<br/>
 
 - Ordered list <br/>
-\1. 숫자 자동 배정<br/>
+1. 숫자 자동 배정<br/>
 
 - Unordered list<br/>
 \- 간단<br/>
