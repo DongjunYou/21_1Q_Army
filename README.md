@@ -35,7 +35,7 @@
 </tbody>
 </table><h2 id="제한사항-극복과정">제한사항 극복과정</h2>
 <blockquote>
-<p>Vulnerability is the birthplace of innovation, creativity and change. Brené Brown</p>
+<p>"Vulnerability is the birthplace of innovation, creativity and change."<br> Brené Brown</p>
 </blockquote>
 <ul>
 <li>코딩 시간자체가 제한됨 -&gt; 생각해보니 아웃풋보고 피드백은 못하지만 초보에게 필요한 이론공부나 메서드암기엔 컴퓨터가 필요가 없구나!  -&gt; 밤샘근무간 미칠듯 공부시작</li>
@@ -44,7 +44,7 @@
 </ul>
 <h2 id="예정-프로젝트">예정 프로젝트</h2>
 <blockquote>
-<p>I don’t spend my time pontificating about high-concept things; I spend my time solving engineering and manufacturing problems. Elon Musk<p>
+<p>"I don’t spend my time pontificating about high-concept things; I spend my time solving engineering and manufacturing problems." <br>Elon Musk<p>
 </blockquote>
 <li>Titanic Survivor<br>
 <a href="https://www.kaggle.com/c/titanic">https://www.kaggle.com/c/titanic</a></li>
