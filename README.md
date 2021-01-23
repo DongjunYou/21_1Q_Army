@@ -44,6 +44,7 @@
 </ul>
 <h2 id="예정-프로젝트">예정 프로젝트</h2>
 <ol>
+> I don’t spend my time pontificating about high-concept things; I spend my time solving engineering and manufacturing problems. Elon Musk
 <li>Titanic Survivor<br>
 <a href="https://www.kaggle.com/c/titanic">https://www.kaggle.com/c/titanic</a></li>
 <li>Santander Customer Satisfaction<br>
