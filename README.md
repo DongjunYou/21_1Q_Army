@@ -43,7 +43,6 @@
 <li>Github 업로드용 local repository도 못만들게함 -&gt; colab에서 온라인 작성 및 업로드가 가능하구나!</li>
 </ul>
 <h2 id="예정-프로젝트">예정 프로젝트</h2>
-<ol>
 > I don’t spend my time pontificating about high-concept things; I spend my time solving engineering and manufacturing problems. Elon Musk
 <li>Titanic Survivor<br>
 <a href="https://www.kaggle.com/c/titanic">https://www.kaggle.com/c/titanic</a></li>
