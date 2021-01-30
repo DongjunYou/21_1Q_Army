@@ -13,7 +13,7 @@
 </thead>
 <tbody>
 <tr>
-<td>9~10월</td>
+<td>9,10월</td>
 <td>Statistics과 Linear Algebra 공부</td>
 </tr>
 <tr>
@@ -21,7 +21,7 @@
 <td>&lt;점프투 파이썬&gt;으로 파이썬 문법 자습, &lt;Do it! 자료구조와 함께 배우는 알고리즘 입문&gt; 공부</td>
 </tr>
 <tr>
-<td>12~1월</td>
+<td>12,1월</td>
 <td>무작정 &lt;머신러닝 완벽가이드&gt;를 읽고 김성훈 교수님 강의를 들어 머신러닝&딥러닝 기초를 잡음</td>
 </tr>
 <tr>
