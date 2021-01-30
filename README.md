@@ -26,7 +26,7 @@
 </tr>
 <tr>
 <td>2월</td>
-<td>colab활용 기초 프로젝트를 github에 올리면서 &lt;핸즈온 머신러닝&gt;으로 복습</td>
+<td>colab활용 기초 프로젝트를 github에 올리면서 &lt;Hands on Machine learning&gt;으로 복습</td>
 </tr>
 <tr>
 <td>3월</td>
