@@ -56,6 +56,8 @@
 <a href="https://www.kaggle.com/c/house-prices-advanced-regression-techniques">https://www.kaggle.com/c/house-prices-advanced-regression-techniques</a></li>
 <li>Customer Segmentation<br>
 <a href="https://www.kaggle.com/carrie1/ecommerce-data">https://www.kaggle.com/carrie1/ecommerce-data</a></li>
+<li>Santander Product Recommendation prediction<br>
+https://www.kaggle.com/c/santander-product-recommendation<br>
 <li>Porto Seguro’s Safe Driver Prediction<br>
 <a href="https://www.kaggle.com/c/porto-seguro-safe-driver-prediction">https://www.kaggle.com/c/porto-seguro-safe-driver-prediction</a></li>
 </ol>
