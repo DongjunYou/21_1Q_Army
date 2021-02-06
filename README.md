@@ -47,19 +47,24 @@
 <blockquote>
 <p>"I don’t spend my time pontificating about high-concept things; I spend my time solving engineering and manufacturing problems." <br>Elon Musk<p>
 </blockquote>
+분류_기본<br>
 <li>Titanic Survivor<br>
 <a href="https://www.kaggle.com/c/titanic">https://www.kaggle.com/c/titanic</a></li>
-<li>Santander Customer Satisfaction<br>
-<a href="https://www.kaggle.com/c/santander-customer-satisfaction">https://www.kaggle.com/c/santander-customer-satisfaction</a></li>
 <li>Credit Card Fraud Detection<br>
 <a href="https://www.kaggle.com/mlg-ulb/creditcardfraud">https://www.kaggle.com/mlg-ulb/creditcardfraud</a></li>
+<li>Santander Customer Satisfaction<br>
+<a href="https://www.kaggle.com/c/santander-customer-satisfaction">https://www.kaggle.com/c/santander-customer-satisfaction</a></li>
+회귀_기본<br>
 <li>House Prices - Advanced Regression Techniques<br>
 <a href="https://www.kaggle.com/c/house-prices-advanced-regression-techniques">https://www.kaggle.com/c/house-prices-advanced-regression-techniques</a></li>
+군집화_기본<br>
 <li>Customer Segmentation<br>
 <a href="https://www.kaggle.com/carrie1/ecommerce-data">https://www.kaggle.com/carrie1/ecommerce-data</a></li>
+분류_심화
 <li>Porto Seguro’s Safe Driver Prediction<br>
 <a href="https://www.kaggle.com/c/porto-seguro-safe-driver-prediction">https://www.kaggle.com/c/porto-seguro-safe-driver-prediction</a></li>
-<li>Santander Product Recommendation prediction<br>
-https://www.kaggle.com/c/santander-product-recommendation<br>
+시계열_심화
+<li>Rossman Store Sales<br>
+https://www.kaggle.com/c/rossmann-store-sales/data?select=test.csv
 </ol>
 
