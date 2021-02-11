@@ -58,6 +58,3 @@
 분류_심화|Porto Seguro’s Safe Driver Prediction<a href="https://www.kaggle.com/c/porto-seguro-safe-driver-prediction">https://www.kaggle.com/c/porto-seguro-safe-driver-prediction</a>
 회귀_심화|Rossman Store Saleshttps://www.kaggle.com/c/rossmann-store-sales/data?select=test.csv
 </ol>
-ㅇ|ㅇ
----|---
-1|1
