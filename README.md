@@ -47,14 +47,14 @@
 <blockquote>
 <p>"I don’t spend my time pontificating about high-concept things; I spend my time solving engineering and manufacturing problems." <br>Elon Musk<p>
 </blockquote>
-종류|내용
----|---
-분류_기본|Titanic Survivor<a href="https://www.kaggle.com/c/titanic">https://www.kaggle.com/c/titanic</a>
-분류_기본|Credit Card Fraud Detection<a href="https://www.kaggle.com/mlg-ulb/creditcardfraud">https://www.kaggle.com/mlg-ulb/creditcardfraud</a>
-분류_기본|Santander Customer Satisfaction<a href="https://www.kaggle.com/c/santander-customer-satisfaction">https://www.kaggle.com/c/santander-customer-satisfaction</a>
-회귀_기본|Bike Sharing Demandhttps://www.kaggle.com/c/bike-sharing-demand
-회귀_기본|House Prices - Advanced Regression Techniques<a href="https://www.kaggle.com/c/house-prices-advanced-regression-techniques">https://www.kaggle.com/c/house-prices-advanced-regression-techniques</a>
-군집화_기본|Customer Segmentation<a href="https://www.kaggle.com/carrie1/ecommerce-data">https://www.kaggle.com/carrie1/ecommerce-data</a>
-분류_심화|Porto Seguro’s Safe Driver Prediction<a href="https://www.kaggle.com/c/porto-seguro-safe-driver-prediction">https://www.kaggle.com/c/porto-seguro-safe-driver-prediction</a>
-회귀_심화|Rossman Store Saleshttps://www.kaggle.com/c/rossmann-store-sales/data?select=test.csv
+Type|Competition|Link
+---|---|---
+분류_기본|Titanic Survivor|https://www.kaggle.com/c/titanic
+분류_기본|Credit Card Fraud Detection|https://www.kaggle.com/mlg-ulb/creditcardfraud
+분류_기본|Santander Customer Satisfaction|https://www.kaggle.com/c/santander-customer-satisfaction
+회귀_기본|Bike Sharing Demand|https://www.kaggle.com/c/bike-sharing-demand
+회귀_기본|House Prices|https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+군집화_기본|Customer Segmentation|https://www.kaggle.com/carrie1/ecommerce-data
+분류_심화|Porto Seguro’s Safe Driver Prediction|https://www.kaggle.com/c/porto-seguro-safe-driver-prediction
+회귀_심화|Rossman Store Sales|https://www.kaggle.com/c/rossmann-store-sales/data?select=test.csv
 </ol>
