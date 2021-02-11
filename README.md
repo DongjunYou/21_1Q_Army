@@ -57,4 +57,3 @@ Type|Competition|Link
 군집화_기본|Customer Segmentation|https://www.kaggle.com/carrie1/ecommerce-data
 분류_심화|Porto Seguro’s Safe Driver Prediction|https://www.kaggle.com/c/porto-seguro-safe-driver-prediction
 회귀_심화|Rossman Store Sales|https://www.kaggle.com/c/rossmann-store-sales/data?select=test.csv
-</ol>
