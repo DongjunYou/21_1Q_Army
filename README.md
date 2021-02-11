@@ -50,25 +50,25 @@
 종류|내용
 -|-
 분류_기본|
-<li>Titanic Survivor<br>
+Titanic Survivor<br>
 <a href="https://www.kaggle.com/c/titanic">https://www.kaggle.com/c/titanic</a></li>
-<li>Credit Card Fraud Detection
+Credit Card Fraud Detection
 <a href="https://www.kaggle.com/mlg-ulb/creditcardfraud">https://www.kaggle.com/mlg-ulb/creditcardfraud</a></li>
-<li>Santander Customer Satisfaction<br>
+Santander Customer Satisfaction<br>
 <a href="https://www.kaggle.com/c/santander-customer-satisfaction">https://www.kaggle.com/c/santander-customer-satisfaction</a></li>
 회귀_기본|
-<li>Bike Sharing Demand<br>
+Bike Sharing Demand<br>
 https://www.kaggle.com/c/bike-sharing-demand<br>
-<li>House Prices - Advanced Regression Techniques<br>
+House Prices - Advanced Regression Techniques<br>
 <a href="https://www.kaggle.com/c/house-prices-advanced-regression-techniques">https://www.kaggle.com/c/house-prices-advanced-regression-techniques</a></li>
 군집화_기본|
-<li>Customer Segmentation<br>
+Customer Segmentation<br>
 <a href="https://www.kaggle.com/carrie1/ecommerce-data">https://www.kaggle.com/carrie1/ecommerce-data</a></li>
 분류_심화|
-<li>Porto Seguro’s Safe Driver Prediction<br>
+Porto Seguro’s Safe Driver Prediction<br>
 <a href="https://www.kaggle.com/c/porto-seguro-safe-driver-prediction">https://www.kaggle.com/c/porto-seguro-safe-driver-prediction</a></li>
 회귀_심화|
-<li>Rossman Store Sales<br>
+Rossman Store Sales<br>
 https://www.kaggle.com/c/rossmann-store-sales/data?select=test.csv
 </ol>
 
