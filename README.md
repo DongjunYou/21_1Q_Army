@@ -49,11 +49,5 @@
 </blockquote>
 Type|Competition|Link
 -|-|-
-분류_기본|Titanic Survivor|https://www.kaggle.com/c/titanic
-분류_기본|Credit Card Fraud Detection|https://www.kaggle.com/mlg-ulb/creditcardfraud
-분류_기본|Santander Customer Satisfaction|https://www.kaggle.com/c/santander-customer-satisfaction
-회귀_기본|Bike Sharing Demand|https://www.kaggle.com/c/bike-sharing-demand
-회귀_기본|House Prices|https://www.kaggle.com/c/house-prices-advanced-regression-techniques
-군집화_기본|Customer Segmentation|https://www.kaggle.com/carrie1/ecommerce-data
-분류_심화|Porto Seguro’s Safe Driver Prediction|https://www.kaggle.com/c/porto-seguro-safe-driver-prediction
-회귀_심화|Rossman Store Sales|https://www.kaggle.com/c/rossmann-store-sales/data?select=test.csv
+분류|CreditDefaultRisk|https://www.kaggle.com/c/home-credit-default-risk
+회귀|Walmart|https://www.kaggle.com/c/m5-forecasting-accuracy/overview
