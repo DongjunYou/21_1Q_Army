@@ -47,8 +47,8 @@
 <blockquote>
 <p>"I don’t spend my time pontificating about high-concept things; I spend my time solving engineering and manufacturing problems." <br>Elon Musk<p>
 </blockquote>
-종류|내용<br>
----|---<br>
+종류|내용
+---|---
 분류_기본|Titanic Survivor<br><a href="https://www.kaggle.com/c/titanic">https://www.kaggle.com/c/titanic</a></li>
 분류_기본|Credit Card Fraud Detection
 <a href="https://www.kaggle.com/mlg-ulb/creditcardfraud">https://www.kaggle.com/mlg-ulb/creditcardfraud</a></li>
