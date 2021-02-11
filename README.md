@@ -51,12 +51,13 @@
 
 Type|Competition|Link
 -|-|-
-분류_기본|Titanic Survivor|https://www.kaggle.com/c/titanic
-분류_기본|Credit Card Fraud Detection|https://www.kaggle.com/mlg-ulb/creditcardfraud
-분류_기본|Santander Customer Satisfaction|https://www.kaggle.com/c/santander-customer-satisfaction
-회귀_기본|Bike Sharing Demand|https://www.kaggle.com/c/bike-sharing-demand
-회귀_기본|House Prices|https://www.kaggle.com/c/house-prices-advanced-regression-techniques
-군집화_기본|Customer Segmentation|https://www.kaggle.com/carrie1/ecommerce-data
-분류_심화|Porto Seguro’s Safe Driver Prediction|https://www.kaggle.com/c/porto-seguro-safe-driver-prediction
-회귀_심화|Rossman Store Sales|https://www.kaggle.com/c/rossmann-store-sales/data?select=test.csv
+분류(기본)|Titanic Survivor|https://www.kaggle.com/c/titanic
+분류(기본)|Credit Card Fraud Detection|https://www.kaggle.com/mlg-ulb/creditcardfraud
+분류(기본)|Santander Customer Satisfaction|https://www.kaggle.com/c/santander-customer-satisfaction
+회귀(기본)|Bike Sharing Demand|https://www.kaggle.com/c/bike-sharing-demand
+회귀(기본)|House Prices|https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+군집화(기본)|Customer Segmentation|https://www.kaggle.com/carrie1/ecommerce-data
+분류(심화)|Porto Seguro’s Safe Driver Prediction|https://www.kaggle.com/c/porto-seguro-safe-driver-prediction
+회귀(심화)|Rossman Store Sales|https://www.kaggle.com/c/rossmann-store-sales/data?select=test.csv
+군집화(심화)|코로나 데이터 시각화 AI 경진대회|https://dacon.io/competitions/official/235590/overview/
 
