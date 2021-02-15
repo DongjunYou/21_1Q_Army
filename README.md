@@ -26,11 +26,11 @@
 </tr>
 <tr>
 <td>2월</td>
-<td>colab활용 기초 프로젝트를 github에 올리면서 &lt;Hands on Machine learning&gt;으로 복습</td>
+<td>colab활용 기초 프로젝트를 github에 올리면서 &lt;Hands on Machine learning&gt;으로 복습/PersonalProject시작</td>
 </tr>
 <tr>
 <td>3월</td>
-<td>캐글&데이콘 </td>
+<td>심화 프로젝트/LSTM구현(Tensorflow익히기)</td>
 </tr>
 </tbody>
 </table><h2 id="제한사항-극복과정">제한사항 극복과정</h2>
