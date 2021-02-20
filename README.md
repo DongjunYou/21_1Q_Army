@@ -26,7 +26,7 @@
 </tr>
 <tr>
 <td>2월</td>
-<td>colab활용 기초 프로젝트를 github에 올리면서 &lt;Hands on Machine learning&gt;으로 복습/PersonalProject의 2,3단계(LSTM공부)</td>
+<td>colab활용 기초 프로젝트를 github에 올리면서 &lt;Hands on Machine learning&gt;으로 복습/PersonalProject의 2단계</td>
 </tr>
 <tr>
 <td>3월</td>
