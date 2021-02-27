@@ -30,7 +30,7 @@
 </tr>
 <tr>
 <td>3월</td>
-<td>심화 프로젝트</td>
+<td>udemy에서 feature engineering강의 듣고 심화 프로젝트3개</td>
 </tr>
 </tbody>
 </table><h2 id="제한사항-극복과정">제한사항 극복과정</h2>
