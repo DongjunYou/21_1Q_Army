@@ -30,7 +30,7 @@
 </tr>
 <tr>
 <td>3월</td>
-<td>Feature-engineering, Time-series analysis인강/심화  </td>
+<td>Feature-engineering, Time-series analysis인강/심화 project 3개</td>
 </tr>
 </tbody>
 </table><h2 id="제한사항-극복과정">제한사항 극복과정</h2>
