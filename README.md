@@ -52,7 +52,6 @@
 Type(Basic)|Competition|Link
 -|-|-
 분류(기본)|Titanic Survivor|https://www.kaggle.com/c/titanic
-분류(기본)|Credit Card Fraud Detection|https://www.kaggle.com/mlg-ulb/creditcardfraud
 분류(기본)|Santander Customer Satisfaction|https://www.kaggle.com/c/santander-customer-satisfaction
 회귀(기본)|Bike Sharing Demand|https://www.kaggle.com/c/bike-sharing-demand
 회귀(기본)|House Prices|https://www.kaggle.com/c/house-prices-advanced-regression-techniques
