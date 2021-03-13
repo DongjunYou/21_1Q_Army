@@ -60,6 +60,6 @@ Type(Basic)|Competition|Link
 Type(Advanced)|Competition|Link
 -|-|-
 분류(심화)|Porto Seguro’s Safe Driver Prediction|https://www.kaggle.com/c/porto-seguro-safe-driver-prediction
-회귀(심화)|Rossman Store Sales|https://www.kaggle.com/c/rossmann-store-sales/data?select=test.csv
+(심화)|Rossman Store Sales|https://www.kaggle.com/c/rossmann-store-sales/data?select=test.csv
 군집화(심화)|코로나 데이터 시각화 AI 경진대회|https://dacon.io/competitions/official/235590/overview/
 
