@@ -51,8 +51,8 @@
 
 Type(Basic)|Competition|Link
 -|-|-
-분류|Titanic Survivor|https://www.kaggle.com/c/titanic
-분류|Santander Customer Satisfaction|https://www.kaggle.com/c/santander-customer-satisfaction
-회귀(시계열)|Bike Sharing Demand|https://www.kaggle.com/c/bike-sharing-demand
-회귀|House Prices|https://www.kaggle.com/c/house-prices-advanced-regression-techniques
-군집화|Customer Segmentation|https://www.kaggle.com/carrie1/ecommerce-data
+분류|1. Titanic Survivor|https://www.kaggle.com/c/titanic
+분류|2. Santander Customer Satisfaction|https://www.kaggle.com/c/santander-customer-satisfaction
+회귀(시계열)|3. Bike Sharing Demand|https://www.kaggle.com/c/bike-sharing-demand
+회귀|4. House Prices|https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+군집화|5. Customer Segmentation|https://www.kaggle.com/carrie1/ecommerce-data
